@@ -6,3 +6,4 @@ Returning to the programming world after a long layoff.  This project documents 
 3. Sample code showing simple OOD principles available in c++.  Also contains an
    implentation of a binary tree.  This ends the work on c++ samples as it is time
    to get on with learning C#.
+4. Learning C#.  CSharpBasics is first attempt at C# programming.
